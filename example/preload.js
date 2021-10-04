@@ -23,5 +23,5 @@ contextBridge.exposeInMainWorld(
     GetPort: (f) => {
       ipcRenderer.on("get_serialport_p5", (event, arg) => f(arg));
     }
-  })
+})
   

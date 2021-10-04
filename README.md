@@ -28,6 +28,10 @@
 
 https://makecode.microbit.org/_Uf3KRD5mUTxc
 
+コンマ区切りの数値で、最後に改行がついたテキストを送信しています。最後の数値のあとにはコンマはありません。
+
+例）　-1000,500,1000\r\n
+
 <img src = "./microbit.png"></img>
 
 
